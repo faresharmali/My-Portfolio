@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.100be5be.css",
+    "main.js": "/static/js/main.7d4d2bb0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/drsante.jpg": "/static/media/drsante.08f668ad04ad8205d0fc.jpg",
+    "static/media/abc.jpg": "/static/media/abc.dddccaacb88101032724.jpg",
+    "static/media/177.jpg": "/static/media/177.cfc0fd1897c3d1c25abe.jpg",
+    "static/media/ihsan.jpg": "/static/media/ihsan.03175e30b593a8545b84.jpg",
+    "static/media/abcMobile.jpg": "/static/media/abcMobile.76b19d03995e9355f2e4.jpg",
+    "static/media/Myhealth+.jpg": "/static/media/Myhealth+.1f3c138545b8a4843dc9.jpg",
+    "static/media/img.jpg": "/static/media/img.92911ec591328802c5a7.jpg",
+    "static/media/loading.svg": "/static/media/loading.e09bf9d89c91cec455441759520404bb.svg",
+    "index.html": "/index.html",
+    "main.100be5be.css.map": "/static/css/main.100be5be.css.map",
+    "main.7d4d2bb0.js.map": "/static/js/main.7d4d2bb0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.100be5be.css",
+    "static/js/main.7d4d2bb0.js"
+  ]
+}
